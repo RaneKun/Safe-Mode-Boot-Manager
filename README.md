@@ -76,4 +76,4 @@ bcdedit /deletevalue {current} safeboot
 ## 📝 Notes
 
 - The script automatically detects your current mode and shows appropriate options
-- Changes are saved - To get back to normal mode, run the script from inside safe mode again
+- Don't delete the script yet! Changes are saved - To get back to normal mode, run the script from inside safe mode again
