@@ -75,6 +75,5 @@ bcdedit /deletevalue {current} safeboot
 - Safe Mode with Networking is great for downloading drivers or fixes while troubleshooting
 ## 📝 Notes
 
-- Windows 10/11 may have disabled the traditional F8 boot menu - this script is the reliable way to enter Safe Mode
 - The script automatically detects your current mode and shows appropriate options
-- Changes are temporary - after booting, the next restart will follow normal boot behavior
+- Changes are saved - To get back to normal mode, run the script from inside safe mode again
