@@ -3,6 +3,7 @@
 ![Batch Script](https://img.shields.io/badge/script-batch-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D4.svg)
 ![Admin](https://img.shields.io/badge/requires-Admin-red.svg)
+![License](https://img.shields.io/badge/RaneKun-Open--Use--License-yellow.svg)
 
 A smart Windows batch script that simplifies restarting into Safe Mode or back to Normal Mode. Automatically detects whether you're currently in Safe Mode or Normal Mode and presents only the relevant options. No more mashing F8!
 
