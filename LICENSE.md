@@ -2,7 +2,7 @@
 
 **Copyright © RaneKun**
 
-This license governs the use, modification, and distribution of the **Safe-Mode-Boot-Manager** project and all files included with it.
+This license governs the use, modification, and distribution of the **Safe Mode Boot Manager** project and all files included with it.
 
 ---
 
